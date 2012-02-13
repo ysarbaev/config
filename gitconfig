@@ -1,0 +1,8 @@
+[user]
+	name = Yuri Sarbaev
+	email = yuri.sarbaev@opensoftdev.ru
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
