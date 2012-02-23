@@ -1,4 +1,4 @@
-export JAVA_HOME=~/java/jre
-export JDK_HOME=~/java
+export JAVA_HOME="/home/yuri.sarbaev/java/jre"
+export JDK_HOME="/home/yuri.sarbaev/java"
 
-export PATH=$JDK_HOME/bin:$JAVA_HOME:/bin:$PATG
+export PATH="$JDK_HOME/bin:$JAVA_HOME:/bin:$PATH"
