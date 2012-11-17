@@ -6,3 +6,5 @@
 	ci = commit
 	co = checkout
 	br = branch
+[core]
+	editor = /usr/bin/vim
